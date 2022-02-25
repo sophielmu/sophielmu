@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sophielmu
+- 👀 I’m have experience in C#, .NET Framework, WPF, MVVM
+- 🌱 I’m currently learning ASP.NET, MVC, Web APIs
+- 📫 How to reach me: sophiemarshallunitt@gmail.com
