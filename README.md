@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sophie
 - 👀 I have experience in C#, .NET Framework, WPF, MVVM
-- 🌱 I’m currently learning ASP.NET, MVC, Web APIs
+- 🌱 I’m currently learning ASP.NET, MVC, Web APIs, Angular, Akka.Net (professionally) and Unity Game Dev (for fun)
 - 📫 How to reach me: https://uk.linkedin.com/in/sophie-marshall-unitt
