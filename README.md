@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sophie
-- 👀 I have professional experience in C#, .NET, WPF, MVVM, ASP.NET Core, REST APIs, Angular, Akka.Net, PostgreSQL
+- 👀 I'm a full stack .NET developer with experience in React and Angular
 - 🕹️ I have dabbled in Python, MATLAB, C++ and Unity Game Dev
 - 🌱 I’m currently learning Go
 - 📫 How to reach me: https://uk.linkedin.com/in/sophie-marshall-unitt
